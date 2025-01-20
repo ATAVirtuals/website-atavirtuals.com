@@ -37,7 +37,7 @@ const Roadmap: NextPage = () => {
       timeline: "Q1 2024",
       status: "In Progress",
       progress: 56,
-      shortDescription: "Building AI agents for social commerce across multiple niches (beauty, tech, fitness). Focused on natural engagement and affiliate revenue generation.",
+      shortDescription: "Building and testing core AI agent architecture",
       description: "Building and testing core AI agent architecture focused on social commerce. Developing a fleet of specialized AI agents across various niches (beauty, tech, fitness) that provide personalized product recommendations while generating affiliate revenue. Establishing natural engagement patterns and building a proven track record of conversions.",
       items: [
         { 
@@ -77,7 +77,7 @@ const Roadmap: NextPage = () => {
       timeline: "Q1-Q2 2024",
       status: "Upcoming",
       progress: 0,
-      shortDescription: "Developing scalable infrastructure and APIs for enterprise-grade AI agent deployment and management.",
+      shortDescription: "Developing scalable technical infrastructure",
       description: "Developing scalable technical infrastructure to support enterprise-grade deployment of AI agents. Building robust backend systems and APIs that will form the foundation of the B2B SaaS platform, enabling seamless integration and management of custom AI agents for business clients.",
       items: [
         { text: "Build containerized architecture with automated deployment", completed: false },
@@ -91,7 +91,7 @@ const Roadmap: NextPage = () => {
       timeline: "Q1-Q2 2024",
       status: "Parallel Development",
       progress: 0,
-      shortDescription: "Building staking system for revenue sharing across affiliate commissions and platform fees.",
+      shortDescription: "Implementing staking mechanics and commission tracking",
       description: "Implementing comprehensive staking mechanics and commission tracking systems that enable token holders to earn a share of ecosystem revenues, including affiliate commissions and platform fees. Creating transparent and automated distribution mechanisms for reward allocation across multiple revenue streams.",
       items: [
         { text: "Deploy smart contracts for token staking and rewards", completed: false },
@@ -105,7 +105,7 @@ const Roadmap: NextPage = () => {
       timeline: "Q1-Q2 2024",
       status: "Planned",
       progress: 0,
-      shortDescription: "Building brand presence and awareness through community engagement and strategic partnerships.",
+      shortDescription: "Building brand awareness and market presence",
       description: "Building brand awareness and market presence through strategic community engagement and partnerships. Focusing on establishing ATA as a leader in AI social commerce while educating potential enterprise clients about the platform's capabilities and benefits.",
       items: [
         { text: "Community AMAs and Twitter Spaces", completed: false },
@@ -119,7 +119,7 @@ const Roadmap: NextPage = () => {
       timeline: "Q2-Q3 2024",
       status: "Planned",
       progress: 0,
-      shortDescription: "Enterprise platform for custom AI agent creation and management. Features include brand control, analytics, and integrated revenue sharing.",
+      shortDescription: "Creating comprehensive management dashboard and configuration tools",
       description: "Launching the comprehensive B2B SaaS platform that enables enterprises to create, deploy, and manage their own customized AI agents. The platform includes advanced brand voice control, product catalog management, and detailed performance analytics. Companies can streamline their social commerce presence through an intuitive interface while maintaining full control over their AI agents' engagement strategies and product recommendations. Platform subscription revenue integrates with the established commission-sharing infrastructure, expanding the ecosystem's revenue streams. This enterprise-grade solution targets the multi-billion dollar intersection of social commerce, affiliate marketing, and B2B SaaS markets.",
       items: [
         { text: "Implement user authentication and agent management", completed: false },
