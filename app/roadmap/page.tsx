@@ -34,7 +34,7 @@ const Roadmap: NextPage = () => {
   const phases: Phases = {
     "1": {
       title: "Phase 1: Agent Development",
-      timeline: "Q1 2024",
+      timeline: "Q1 2025",
       status: "In Progress",
       progress: 56,
       shortDescription: "Building and testing core AI agent architecture",
@@ -74,7 +74,7 @@ const Roadmap: NextPage = () => {
     },
     "2a": {
       title: "Phase 2A: Infrastructure",
-      timeline: "Q1-Q2 2024",
+      timeline: "Q1-Q2 2025",
       status: "Upcoming",
       progress: 0,
       shortDescription: "Developing scalable technical infrastructure",
@@ -88,7 +88,7 @@ const Roadmap: NextPage = () => {
     },
     "2b": {
       title: "Phase 2B: Staking & Rewards",
-      timeline: "Q1-Q2 2024",
+      timeline: "Q1-Q2 2025",
       status: "Parallel Development",
       progress: 0,
       shortDescription: "Implementing staking mechanics and commission tracking",
@@ -102,7 +102,7 @@ const Roadmap: NextPage = () => {
     },
     "2c": {
       title: "Phase 2C: Marketing & Awareness",
-      timeline: "Q1-Q2 2024",
+      timeline: "Q1-Q2 2025",
       status: "Planned",
       progress: 0,
       shortDescription: "Building brand awareness and market presence",
@@ -116,7 +116,7 @@ const Roadmap: NextPage = () => {
     },
     "3": {
       title: "Phase 3: Launchpad Platform",
-      timeline: "Q2-Q3 2024",
+      timeline: "Q2-Q3 2025",
       status: "Planned",
       progress: 0,
       shortDescription: "Creating comprehensive management dashboard and configuration tools",
