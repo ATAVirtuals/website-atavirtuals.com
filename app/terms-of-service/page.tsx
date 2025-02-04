@@ -144,7 +144,17 @@ const TermsOfService: React.FC = () => {
         </section>
 
         <section>
-          <h2 className="text-2xl font-bold mb-4">12. Contact Information</h2>
+          <h2 className="text-2xl font-bold mb-4">12. Project Roadmap</h2>
+          <p>
+            Any roadmap, development timeline, or future plans presented on the website or through our AI agents are subject
+            to change without notice. While we strive to achieve our stated goals, various factors including but not limited
+            to technical challenges, market conditions, or regulatory requirements may necessitate modifications to our planned
+            development path.
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-2xl font-bold mb-4">13. Contact Information</h2>
           <p>
             If you have any questions or concerns about these Terms, please contact us via Telegram at{" "}
             <a href="https://t.me/OfficialATACommunity" target="_blank" rel="noopener noreferrer">
