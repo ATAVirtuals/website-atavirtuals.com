@@ -28,33 +28,9 @@ export const menuLinks: HeaderMenuLink[] = [
     href: "/",
   },
   {
-    label: "$ATA",
-    href: "/swap",
-    icon: <CurrencyDollarIcon className="h-4 w-4" />,
-  },
-  {
     label: "Stake",
     href: "/staking",
     //icon: <CakeIcon className="h-4 w-4" />,
-  },
-  {
-    label: "About",
-    href: "/about",
-    //icon: <QuestionMarkCircleIcon className="h-4 w-4" />,
-  },
-  {
-    label: "Roadmap",
-    href: "/roadmap",
-  },
-  // {
-  //   label: "Rewards & Income",
-  //   href: "/rewards",
-  //   icon: <GiftIcon className="h-4 w-4" />,
-  // },
-  {
-    label: "Collaborate",
-    href: "/collaborate",
-    //icon: <UsersIcon className="h-4 w-4" />,
   },
   // Only show Debug menu item in development
   ...(process.env.NODE_ENV !== "production"
