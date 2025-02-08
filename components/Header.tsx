@@ -7,7 +7,6 @@ import { usePathname } from "next/navigation";
 import {
   Bars3Icon,
   BugAntIcon,
-  CurrencyDollarIcon, // CakeIcon, // CurrencyDollarIcon,
   // // GiftIcon,
   // // MapIcon,
   // QuestionMarkCircleIcon,
